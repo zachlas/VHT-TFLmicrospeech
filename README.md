@@ -17,7 +17,7 @@ Folder                                                | Description
 `./Platform_MIMXRT1064-EVK/`                          | Project files specific for MIMXRT1064-EVK target.
 `./VSI/`                                              | Implementation of Audio Streaming Interface for FVP targets with [**Virtual Streaming Interface (VSI)**](https://arm-software.github.io/VHT/main/simulation/html/group__arm__vsi.html).
 
-## Prerequisites
+## Prerequisites  
 
 **Toolchain**
 - IDE (Windows only): [Keil Microcontroller Development Kit (MDK)](https://developer.arm.com/tools-and-software/embedded/keil-mdk)
